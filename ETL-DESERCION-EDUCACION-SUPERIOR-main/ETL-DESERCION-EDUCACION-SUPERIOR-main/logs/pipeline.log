@@ -1,0 +1,11 @@
+2026-10-15 07:50:40,575 - INFO - Iniciando procesamiento de la Capa Silver
+2026-10-15 07:50:40,576 - ERROR - No se encontraron archivos en data/bronze/
+2026-10-15 07:51:24,833 - INFO - Iniciando extracción desde la API
+2026-10-15 07:51:24,834 - INFO - URL consultada: https://www.datos.gov.co/api/v3/views/y9ga-zwzy/query.json
+2026-10-15 07:51:27,875 - INFO - Extracción de API finalizada
+2026-10-15 07:51:27,876 - INFO - Archivo guardado: matricula_api_20261015_075127.json
+2026-10-15 07:51:27,876 - INFO - Tipo de respuesta: list
+2026-10-15 07:51:27,876 - INFO - Cantidad de elementos principales: 19618
+2026-10-15 07:51:37,740 - INFO - Iniciando procesamiento de la Capa Silver
+2026-10-15 07:51:37,741 - INFO - Cargando datos desde la API Bronze: matricula_api_20261015_075127.json
+2026-10-15 07:51:38,420 - INFO - Capa Silver procesada exitosamente
