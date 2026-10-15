@@ -218,3 +218,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Datos locales del ETL
+data/bronze/
+data/silver/
+data/gold/
+
+# Registros del proyecto
+logs/
